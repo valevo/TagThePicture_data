@@ -1,0 +1,1 @@
+from src.endpoints.nmvw_endpoint import get_objects as nmvw_get_objects

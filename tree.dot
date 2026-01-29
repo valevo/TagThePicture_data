@@ -1,0 +1,93 @@
+digraph tree {
+	"root" [label=":", shape=circle]
+	"https://hdl.handle.net/20.500.11840/termmaster1" [label=":", shape=circle]
+	"https://hdl.handle.net/20.500.11840/termmaster10047723" [label="Context and  Function ", shape=circle]
+	"https://hdl.handle.net/20.500.11840/termmaster10066041" [label="Objects Facet", shape=circle]
+	"https://hdl.handle.net/20.500.11840/termmaster10047729" [label="communities and societies", shape=circle]
+	"https://hdl.handle.net/20.500.11840/termmaster10047922" [label="gathering and p
+roduction of goods and food", shape=circle]
+	"https://hdl.handle.net/20.500.11840/termmaster10048781" [label="gatherings, eve
+nts, and parties", shape=circle]
+	"https://hdl.handle.net/20.500.11840/termmaster10066296" [label="Built Environment", shape=circle]
+	"https://hdl.handle.net/20.500.11840/termmaster10068720" [label="Object Groupings and Systems", shape=circle]
+	"https://hdl.handle.net/20.500.11840/termmaster10049051" [label="power and politics", shape=circle]
+	"https://hdl.handle.net/20.500.11840/termmaster10047941" [label="plant cultivati
+ng and animal keeping", shape=circle]
+	"https://hdl.handle.net/20.500.11840/termmaster10048782" [label="marches and demonstrations", shape=circle]
+	"https://hdl.handle.net/20.500.11840/termmaster10066316" [label="Settlements and Landscapes", shape=circle]
+	"https://hdl.handle.net/20.500.11840/termmaster10066492" [label="built works", shape=circle]
+	"https://hdl.handle.net/20.500.11840/termmaster10068721" [label="systems (object groupings)", shape=circle]
+	"https://hdl.handle.net/20.500.11840/termmaster10049754" [label="exerting power", shape=circle]
+	"https://hdl.handle.net/20.500.11840/termmaster10047947" [label="animal keeping", shape=circle]
+	"https://hdl.handle.net/20.500.11840/termmaster10079410" [label=":", shape=circle]
+	"https://hdl.handle.net/20.500.11840/termmaster10066324" [label="landscapes (environments)", shape=circle]
+	"https://hdl.handle.net/20.500.11840/termmaster10067112" [label="single built wo
+rks by general type", shape=circle]
+	"https://hdl.handle.net/20.500.11840/termmaster10066731" [label="single built wo
+rks by specific type", shape=circle]
+	"https://hdl.handle.net/20.500.11840/termmaster10068758" [label="systems by function", shape=circle]
+	"https://hdl.handle.net/20.500.11840/termmaster10049794" [label="police and army", shape=circle]
+	"https://hdl.handle.net/20.500.11840/termmaster10047948" [label="husbandry", shape=circle]
+	"https://hdl.handle.net/20.500.11840/termmaster10066395" [label="transportation spaces", shape=circle]
+	"https://hdl.handle.net/20.500.11840/termmaster10066325" [label="cultural landscapes", shape=circle]
+	"https://hdl.handle.net/20.500.11840/termmaster10067113" [label="structures (sin
+gle built works)", shape=circle]
+	"https://hdl.handle.net/20.500.11840/termmaster10066761" [label="single built works by function", shape=circle]
+	"https://hdl.handle.net/20.500.11840/termmaster10068769" [label="transit systems", shape=circle]
+	"https://hdl.handle.net/20.500.11840/termmaster10066396" [label="roads", shape=circle]
+	"https://hdl.handle.net/20.500.11840/termmaster10066326" [label="cultural landsc
+apes by function", shape=circle]
+	"https://hdl.handle.net/20.500.11840/termmaster10067114" [label="buildings", shape=circle]
+	"https://hdl.handle.net/20.500.11840/termmaster10079406" [label=":", shape=circle]
+	"https://hdl.handle.net/20.500.11840/termmaster10066446" [label="cemeteries", shape=circle]
+	"https://hdl.handle.net/20.500.11840/termmaster10066799" [label="commercial buildings", shape=circle]
+	"https://hdl.handle.net/20.500.11840/termmaster10068770" [label="railroads", shape=circle]
+	"https://hdl.handle.net/20.500.11840/termmaster10066327" [label="agricultural land", shape=circle]
+	"https://hdl.handle.net/20.500.11840/termmaster10066952" [label="religious structures", shape=circle]
+	"https://hdl.handle.net/20.500.11840/termmaster10066800" [label="mercantile buildings", shape=circle]
+	"https://hdl.handle.net/20.500.11840/termmaster10066955" [label="religious buildings", shape=circle]
+	"https://hdl.handle.net/20.500.11840/termmaster10066801" [label="stores", shape=circle]
+	"https://hdl.handle.net/20.500.11840/termmaster10066959" [label="temples", shape=circle]
+
+	"root" -> "https://hdl.handle.net/20.500.11840/termmaster1"
+	"https://hdl.handle.net/20.500.11840/termmaster1" -> "https://hdl.handle.net/20.500.11840/termmaster10066041"
+	"https://hdl.handle.net/20.500.11840/termmaster1" -> "https://hdl.handle.net/20.500.11840/termmaster10047723"
+	"https://hdl.handle.net/20.500.11840/termmaster10047723" -> "https://hdl.handle.net/20.500.11840/termmaster10047729"
+	"https://hdl.handle.net/20.500.11840/termmaster10047723" -> "https://hdl.handle.net/20.500.11840/termmaster10047922"
+	"https://hdl.handle.net/20.500.11840/termmaster10047723" -> "https://hdl.handle.net/20.500.11840/termmaster10048781"
+	"https://hdl.handle.net/20.500.11840/termmaster10066041" -> "https://hdl.handle.net/20.500.11840/termmaster10066296"
+	"https://hdl.handle.net/20.500.11840/termmaster10066041" -> "https://hdl.handle.net/20.500.11840/termmaster10068720"
+	"https://hdl.handle.net/20.500.11840/termmaster10047729" -> "https://hdl.handle.net/20.500.11840/termmaster10049051"
+	"https://hdl.handle.net/20.500.11840/termmaster10047922" -> "https://hdl.handle.net/20.500.11840/termmaster10047941"
+	"https://hdl.handle.net/20.500.11840/termmaster10048781" -> "https://hdl.handle.net/20.500.11840/termmaster10048782"
+	"https://hdl.handle.net/20.500.11840/termmaster10066296" -> "https://hdl.handle.net/20.500.11840/termmaster10066492"
+	"https://hdl.handle.net/20.500.11840/termmaster10066296" -> "https://hdl.handle.net/20.500.11840/termmaster10066316"
+	"https://hdl.handle.net/20.500.11840/termmaster10068720" -> "https://hdl.handle.net/20.500.11840/termmaster10068721"
+	"https://hdl.handle.net/20.500.11840/termmaster10049051" -> "https://hdl.handle.net/20.500.11840/termmaster10049754"
+	"https://hdl.handle.net/20.500.11840/termmaster10047941" -> "https://hdl.handle.net/20.500.11840/termmaster10047947"
+	"https://hdl.handle.net/20.500.11840/termmaster10066316" -> "https://hdl.handle.net/20.500.11840/termmaster10066324"
+	"https://hdl.handle.net/20.500.11840/termmaster10066316" -> "https://hdl.handle.net/20.500.11840/termmaster10079410"
+	"https://hdl.handle.net/20.500.11840/termmaster10066492" -> "https://hdl.handle.net/20.500.11840/termmaster10066731"
+	"https://hdl.handle.net/20.500.11840/termmaster10066492" -> "https://hdl.handle.net/20.500.11840/termmaster10067112"
+	"https://hdl.handle.net/20.500.11840/termmaster10068721" -> "https://hdl.handle.net/20.500.11840/termmaster10068758"
+	"https://hdl.handle.net/20.500.11840/termmaster10049754" -> "https://hdl.handle.net/20.500.11840/termmaster10049794"
+	"https://hdl.handle.net/20.500.11840/termmaster10047947" -> "https://hdl.handle.net/20.500.11840/termmaster10047948"
+	"https://hdl.handle.net/20.500.11840/termmaster10079410" -> "https://hdl.handle.net/20.500.11840/termmaster10066395"
+	"https://hdl.handle.net/20.500.11840/termmaster10066324" -> "https://hdl.handle.net/20.500.11840/termmaster10066325"
+	"https://hdl.handle.net/20.500.11840/termmaster10067112" -> "https://hdl.handle.net/20.500.11840/termmaster10067113"
+	"https://hdl.handle.net/20.500.11840/termmaster10066731" -> "https://hdl.handle.net/20.500.11840/termmaster10066761"
+	"https://hdl.handle.net/20.500.11840/termmaster10068758" -> "https://hdl.handle.net/20.500.11840/termmaster10068769"
+	"https://hdl.handle.net/20.500.11840/termmaster10066395" -> "https://hdl.handle.net/20.500.11840/termmaster10066396"
+	"https://hdl.handle.net/20.500.11840/termmaster10066325" -> "https://hdl.handle.net/20.500.11840/termmaster10066326"
+	"https://hdl.handle.net/20.500.11840/termmaster10067113" -> "https://hdl.handle.net/20.500.11840/termmaster10067114"
+	"https://hdl.handle.net/20.500.11840/termmaster10066761" -> "https://hdl.handle.net/20.500.11840/termmaster10079406"
+	"https://hdl.handle.net/20.500.11840/termmaster10066761" -> "https://hdl.handle.net/20.500.11840/termmaster10066799"
+	"https://hdl.handle.net/20.500.11840/termmaster10066761" -> "https://hdl.handle.net/20.500.11840/termmaster10066446"
+	"https://hdl.handle.net/20.500.11840/termmaster10068769" -> "https://hdl.handle.net/20.500.11840/termmaster10068770"
+	"https://hdl.handle.net/20.500.11840/termmaster10066326" -> "https://hdl.handle.net/20.500.11840/termmaster10066327"
+	"https://hdl.handle.net/20.500.11840/termmaster10079406" -> "https://hdl.handle.net/20.500.11840/termmaster10066952"
+	"https://hdl.handle.net/20.500.11840/termmaster10066799" -> "https://hdl.handle.net/20.500.11840/termmaster10066800"
+	"https://hdl.handle.net/20.500.11840/termmaster10066952" -> "https://hdl.handle.net/20.500.11840/termmaster10066955"
+	"https://hdl.handle.net/20.500.11840/termmaster10066800" -> "https://hdl.handle.net/20.500.11840/termmaster10066801"
+	"https://hdl.handle.net/20.500.11840/termmaster10066955" -> "https://hdl.handle.net/20.500.11840/termmaster10066959"
+}
